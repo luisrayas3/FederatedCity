@@ -37,11 +37,11 @@
 
 Between date selection and the court date, the following things must take place:
 
-​	**1.3** The defendant is asked what facts of the claim they would like to dispute, if any. A time limit of one week from the selection of the date is given for this.
+​	**1.3** The defendant is asked whether they dispute the claim, and if so, for what reasons. A time limit of one week from the selection of the date is given for this. If no dispute is given, the case is resolved in favor of the plaintiff.
 
 ​	**1.4** Adjudicator selection: Each party chooses a judge, and those two judges chooses a third. If a jury is required, the judges will select the jury in a process where each juror is selected by a 2/3rds vote amongst the judges. 
 
-​	**1.5** Discovery: each side introduces evidence they want to present. This must be done before the selected court date. Plaintiff discovery is only viewable by the defendant after he has decided if there are any facts of the claim they would like to dispute, or the time has expired. Any compulsion of the production of evidence or appearance of witnesses must obtain a warrant from the borough or city court.
+​	**1.5** Discovery: Each side introduces evidence and arguments they want to present. This must be done before the selected court date. Plaintiff discovery is only viewable by the defendant after he has decided if there are any facts of the claim they would like to dispute, or the time has expired. The court will verify the warrant for any compulsion of the production of evidence or of appearance of witnesses. If the defendant brings up new arguments, evidence, or details that the court believes the plaintiff should be able to prepare for, the additional court costs caused by any recess or delay for that purpose is paid for by the defendant.
 
 ​	**1.6** Optional motions (dismiss, suppress evidence, protective order, limine, continuance). 
 
